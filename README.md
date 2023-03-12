@@ -6,4 +6,3 @@ Marcin Szostak 51634
 Patryk Rakowski 51626
 
 <a href="https://docs.google.com/document/d/1CRfL75cYTgzUWIgCuZzjVbAbBsGHJdYMAU8jybR5B-E/edit?usp=sharing">Dokument google do edycji</a>
-
