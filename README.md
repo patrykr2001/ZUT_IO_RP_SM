@@ -10,3 +10,4 @@ Patryk Rakowski 51626
 | Data | Opis |
 | ---- | ---- |
 | 13.04.2023 | Dodano opis organizacji |
+| 16.04.2023 | Dodano analizę SWOT organizacji |
