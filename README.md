@@ -11,6 +11,7 @@ Patryk Rakowski 51626
 | ---- | ---- |
 | 13.04.2023 | Dodano opis organizacji |
 | 16.04.2023 | Dodano analizę SWOT organizacji |
-| 16.04.2023 | Dodano całe 5.1
-| 16.04.2023 | Dodano 5.2.1
-| 16.04.2023 | Dodano początek 5.2.3
+| 16.04.2023 | Dodano całe 5.1 |
+| 16.04.2023 | Dodano 5.2.1 |
+| 16.04.2023 | Dodano początek 5.2.3 |
+| 20.04.2023 | Dodano szczegółowy opis wymagań 2 i 3 |
