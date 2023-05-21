@@ -9,11 +9,12 @@ Patryk Rakowski 51626
 
 | Data | Opis                                            |
 | ---- |-------------------------------------------------|
-| 13.04.2023 | Dodano opis organizacji                         |
-| 16.04.2023 | Dodano analizę SWOT organizacji                 |
-| 16.04.2023 | Dodano całe 5.1                                 |
-| 16.04.2023 | Dodano 5.2.1                                    |
-| 16.04.2023 | Dodano początek 5.2.3                           |
-| 20.04.2023 | Dodano szczegółowy opis wymagań 2 i 3           |
-| 23.04.2023 | Dodano opis punktu 9.6                          |
+| 13.04.2023 | Dodano opis organizacji |
+| 16.04.2023 | Dodano analizę SWOT organizacji |
+| 16.04.2023 | Dodano całe 5.1 |
+| 16.04.2023 | Dodano 5.2.1 |
+| 16.04.2023 | Dodano początek 5.2.3 |
+| 20.04.2023 | Dodano szczegółowy opis wymagań 2 i 3 |
+| 23.04.2023 | Dodano opis punktu 9.6 |
 | 05.05.2023 | Zakończono projektowanie wymagań funkcjonalnych |
+| 20.05.2023 | Uzupełniono use case diagrams |   
