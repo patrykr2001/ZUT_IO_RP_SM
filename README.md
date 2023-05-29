@@ -18,3 +18,4 @@ Patryk Rakowski 51626
 | 23.04.2023 | Dodano opis punktu 9.6 |
 | 05.05.2023 | Zakończono projektowanie wymagań funkcjonalnych |
 | 20.05.2023 | Uzupełniono use case diagrams |   
+| 29.05.2023 | Uzupełniono 7. Zarządzanie ryzykiem |
