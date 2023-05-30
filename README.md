@@ -20,3 +20,4 @@ Patryk Rakowski 51626
 | 20.05.2023 | Uzupełniono use case diagrams |   
 | 29.05.2023 | Uzupełniono 7. Zarządzanie ryzykiem |
 | 30.05.2023 | Dodano diagram klas i przejścia między głównymi elementami |
+| 30.05.2023 | Dodano schemat bazy danych oraz opisy tabel |
