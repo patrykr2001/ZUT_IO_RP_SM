@@ -22,3 +22,4 @@ Patryk Rakowski 51626
 | 30.05.2023 | Dodano diagram klas i przejścia między głównymi elementami |
 | 30.05.2023 | Dodano schemat bazy danych oraz opisy tabel |
 | 02.05.2023 | Dodano projekty graficzne ekranów |
+| 03.05.2023 | Dodano wymagania niefunkcjonalne i diagram sekwencji |
